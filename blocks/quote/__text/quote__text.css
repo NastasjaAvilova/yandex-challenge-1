@@ -1,0 +1,13 @@
+.quote__text {
+  margin: 0;
+  max-width: 250px;
+  font-family: 'Consolas' , Courier, monospace;
+  font-size: 13px;
+  line-height: 20px;
+  letter-spacing: 0.3px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+}

@@ -1,0 +1,8 @@
+.two-rows {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  min-height: 100vh;
+}

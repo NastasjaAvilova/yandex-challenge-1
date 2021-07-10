@@ -1,0 +1,15 @@
+.quotes {
+  max-width: 100%;
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+  margin-top: 120px;
+  justify-content: space-between;
+}
+
+@media screen and (max-width: 480px) {
+  .quotes {
+    flex-direction: column;
+    margin-top: 40px;
+  }
+}

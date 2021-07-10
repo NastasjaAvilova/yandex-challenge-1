@@ -1,0 +1,12 @@
+.intro__text {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+@media screen and (max-width: 480px) {
+  .intro__text {
+  height: 60%;
+  }
+}

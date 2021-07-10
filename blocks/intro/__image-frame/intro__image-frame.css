@@ -1,0 +1,7 @@
+.intro__image-frame {
+  display: flex;
+  align-items: center;
+  margin: 0;
+  justify-content: center;
+  height: 100%;
+}
